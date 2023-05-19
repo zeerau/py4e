@@ -30,11 +30,11 @@
 
 #sorting with tuples
 # using the sorted method that takes a sequence as a parameter and return a sorted tuple
-new_dict = {
-    'breakfast':'egg',
-    'lunch':'rice',
-    'dinner': 'fruits'
-}
+# new_dict = {
+#     'breakfast':'egg',
+#     'lunch':'rice',
+#     'dinner': 'fruits'
+# }
 
-sort_dict = sorted(new_dict.items())
-print(sort_dict)
+# sort_dict = sorted(new_dict.items())
+# print(sort_dict)
